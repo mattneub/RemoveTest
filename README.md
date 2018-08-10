@@ -13,3 +13,5 @@ Typical times in my tests (on device, Release build) are:
 * 26 seconds
 * 0.2 seconds
 * 0.02 seconds
+
+Be sure to test in a Release build (not a Debug build) on a device (not a simulator)!
